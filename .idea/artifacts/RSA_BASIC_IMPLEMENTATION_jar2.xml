@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RSA-BASIC-IMPLEMENTATION:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/RSA_BASIC_IMPLEMENTATION_jar2</output-path>
+    <root id="archive" name="RSA-BASIC-IMPLEMENTATION.jar">
+      <element id="module-output" name="RSA-BASIC-IMPLEMENTATION" />
+    </root>
+  </artifact>
+</component>
