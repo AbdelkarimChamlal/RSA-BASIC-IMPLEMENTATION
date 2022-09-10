@@ -36,4 +36,4 @@ if you just want to test the project without generating the jar file, follow the
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact
-if you have any questions, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/abdelkarimchamlal/) or [gmail](email://abdelkarim.chamlal@gmail.com)
+if you have any questions, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/abdelkarimchamlal/) or abdelkarim.chamlal@gmail.com
